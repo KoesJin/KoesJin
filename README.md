@@ -51,7 +51,7 @@ Communication / IDE
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/"> </a>
          <a href=mailto:wlstjr2015@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wlstjr2015@gmail.com"> </a>
-         <a href=https://www.notion.so/2023-Web-1eb3955a7c644d8283efd78e5bcf1adc> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/2023-Web-1eb3955a7c644d8283efd78e5bcf1adc"> </a>
+         <a href=https://www.notion.so/3bb62cf4d8024c469383628832acb328?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/2023-Web-1eb3955a7c644d8283efd78e5bcf1adc"> </a>
           </div>  <br> 
    <div align="center">
 </div>
